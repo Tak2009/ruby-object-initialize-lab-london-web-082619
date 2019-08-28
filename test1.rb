@@ -15,6 +15,6 @@ class Dog
 end
 
 tama = Dog.new("fido")
-tama.name
+puts tama.name
 
 
