@@ -8,10 +8,10 @@ class Dog
     @name = name
   end
   
-  def name
-    @name
+  def breed=(breed)
+    @breed = breed
   end
-
+  
 end
 
 tama = Dog.new("fido")
