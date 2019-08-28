@@ -13,3 +13,7 @@ class Dog
   end
 
 end
+
+tama = Dog.new("fido")
+
+
