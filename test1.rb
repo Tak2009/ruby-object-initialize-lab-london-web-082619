@@ -25,5 +25,6 @@ end
 
 tama = Dog.new("fido")
 puts tama.name
+puts tama.breed
 
 
